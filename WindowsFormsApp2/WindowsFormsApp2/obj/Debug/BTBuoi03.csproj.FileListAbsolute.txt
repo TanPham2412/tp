@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\BTBuoi03.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ListViewDemo.resources
+C:\Users\Admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\BTBuoi03.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\BTBuoi03.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
