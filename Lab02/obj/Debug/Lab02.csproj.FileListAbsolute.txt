@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\2280602870_PhamMinhTan\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\Admin\source\repos\2280602870_PhamMinhTan\Lab02\bin\Debug\Lab02.exe
+C:\Users\Admin\source\repos\2280602870_PhamMinhTan\Lab02\bin\Debug\Lab02.pdb
+C:\Users\Admin\source\repos\2280602870_PhamMinhTan\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\2280602870_PhamMinhTan\Lab02\obj\Debug\Lab02.Form1.resources
+C:\Users\Admin\source\repos\2280602870_PhamMinhTan\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+C:\Users\Admin\source\repos\2280602870_PhamMinhTan\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\2280602870_PhamMinhTan\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2280602870_PhamMinhTan\Lab02\obj\Debug\Lab02.exe
+C:\Users\Admin\source\repos\2280602870_PhamMinhTan\Lab02\obj\Debug\Lab02.pdb
