@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\De02\De02\bin\Debug\De02.exe.config
+C:\Users\Admin\source\repos\De02\De02\bin\Debug\De02.exe
+C:\Users\Admin\source\repos\De02\De02\bin\Debug\De02.pdb
+C:\Users\Admin\source\repos\De02\De02\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\De02\De02\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\De02\De02\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\De02\De02\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\De02\De02\obj\Debug\De02.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\De02\De02\obj\Debug\De02.frmSanpham.resources
+C:\Users\Admin\source\repos\De02\De02\obj\Debug\De02.Properties.Resources.resources
+C:\Users\Admin\source\repos\De02\De02\obj\Debug\De02.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\De02\De02\obj\Debug\De02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\De02\De02\obj\Debug\De02.csproj.Up2Date
+C:\Users\Admin\source\repos\De02\De02\obj\Debug\De02.exe
+C:\Users\Admin\source\repos\De02\De02\obj\Debug\De02.pdb
